@@ -1,0 +1,44 @@
+{
+  "name": "heart-buddy",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-google-maps/api": "^2.18.1",
+    "@reduxjs/toolkit": "^1.9.3",
+    "@uiball/loaders": "^1.2.6",
+    "axios": "^1.3.4",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.4",
+    "chart.js": "^4.2.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2",
+    "react-chartjs-2": "^5.2.0",
+    "react-d3-speedometer": "^2.1.0-rc.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.4.0",
+    "react-pdf": "^6.2.2",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.9.0",
+    "react-select": "^5.7.2",
+    "semantic-ui-react": "^2.1.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7",
+    "vite": "^4.2.0"
+  },
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
